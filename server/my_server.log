@@ -1,0 +1,10 @@
+get a error message
+2016-03-18 15:46:23,850 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:25,309 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:26,007 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:27,002 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:27,480 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:27,975 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:28,462 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:28,983 INFO      [service_mgr.py:57(run)] start child process with command
+2016-03-18 15:46:29,586 INFO      [service_mgr.py:57(run)] start child process with command
